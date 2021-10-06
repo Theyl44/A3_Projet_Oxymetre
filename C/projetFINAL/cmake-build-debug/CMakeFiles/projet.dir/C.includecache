@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/affichage.h
+define.h
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/define.h
+
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/define.h
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/fichiers.h
+stdio.h
+-
+stdlib.h
+-
+define.h
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/define.h
+
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/fir.h
+define.h
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/define.h
+
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/iir.h
+define.h
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/define.h
+
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/integration.h
+define.h
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/define.h
+
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/lecture.h
+define.h
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/define.h
+
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/main.c
+stdio.h
+-
+lecture.h
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/lecture.h
+fichiers.h
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/fichiers.h
+affichage.h
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/affichage.h
+mesure.h
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/mesure.h
+fir.h
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/fir.h
+iir.h
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/iir.h
+integration.h
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/integration.h
+
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/mesure.h
+define.h
+/mnt/c/Users/Theo/Desktop/ISEN/2020-2021 CIR3/Oxymetre/projetFINAL/define.h
+

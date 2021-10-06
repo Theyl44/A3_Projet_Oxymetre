@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g   CMakeFiles/projet.dir/main.c.o CMakeFiles/projet.dir/affichage.c.o CMakeFiles/projet.dir/fichiers.c.o CMakeFiles/projet.dir/fir.c.o CMakeFiles/projet.dir/iir.c.o CMakeFiles/projet.dir/integration.c.o CMakeFiles/projet.dir/lecture.c.o CMakeFiles/projet.dir/mesure.c.o  -o projet 
